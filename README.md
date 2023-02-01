@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=celeloup&style=flat-square&color=blue" alt=""/>
   <h1> Hey there 👋 I'm Celia <br>Junior Full-stack Developper</h1>
   <b>You can check my <a href="https://handsomely-moth-230.notion.site/C-lia-Leloup-c5ef46d679a546058fc5d5a76ba2284e">portfolio here ✨</a></b>
 </div>
