@@ -9,7 +9,7 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=celeloup&style=flat-square&color=blue" alt=""/>
-  <h1> Hey there 👋 I'm Celia <br>Creative Developper</h1>
+  <h1> Hey there 👋 I'm Celia <br>a Creative Developper</h1>
   <b>You can check my <a href="https://handsomely-moth-230.notion.site/C-lia-Leloup-c5ef46d679a546058fc5d5a76ba2284e">portfolio here ✨</a></b>
 </div>
 
